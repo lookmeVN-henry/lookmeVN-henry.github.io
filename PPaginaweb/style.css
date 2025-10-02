@@ -1,0 +1,24 @@
+/* --- ...todo lo de antes se queda igual --- */
+
+/* ---------- Hellou You (Joe box) ---------- */
+.you-btn {
+  background: linear-gradient(90deg,#a000ff,#ff4da6);
+}
+
+#joeBox .letter-content {
+  text-align:center;
+}
+
+.joe-img {
+  width:200px;
+  max-width:80%;
+  border-radius:12px;
+  margin-bottom:12px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.25);
+}
+
+.joe-text {
+  font-size:1.2rem;
+  font-weight:700;
+  color:#a10b5f;
+}
